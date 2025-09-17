@@ -8,6 +8,12 @@ This is an interactive implementation in TiddlyWiki 5 by [Federatial](https://fe
 * AMBIT is a mentalization-based approach for teams and services who work with clients presenting with multiple and complex problems – see https://manuals.annafreud.org/ambit/
 * The AIM Questionnaire is a questionnaire completed by a care worker from the workers' perspective that systematically analyses the situation of a young person and suggests specific interventions. It can be used as a measure at the beginning and end of work with clients to track how the work has gone, whether the goals set have been met, and whether things have changed in a clients' life. At a service or team level it can provide a rich source of information about the clients that have been seen, and act as a resource for teams to learn about the work they do – see https://manuals.annafreud.org/ambit/#AIM
 
+A demo version of the AIM Questionnaire can be found here:
+
+* [[English|https://intertwingled-innovations.github.io/afnccf-aim-questionnaire/]]
+* [[German|https://intertwingled-innovations.github.io/afnccf-aim-questionnaire/de-DE/]]
+* [[Spanish|https://intertwingled-innovations.github.io/afnccf-aim-questionnaire/es-ES/]]
+
 # Copyright and Licensing
 
 The AIM questionnaire is copyright Schneider, Fonagy, Target, Bevington, Fuggle and is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. See [AIM Creative Commons Licence](https://manuals.annafreud.org/ambit/#AIM%20Creative%20Commons%20Licence) for more details.
@@ -17,5 +23,3 @@ The TiddlyWiki 5 implementation of the questionnaire is copyright Jeremy Ruston 
 # Usage
 
 These components have not been adapted for general purpose use, and so will need adaptation to be usable in other situations.
-
-Note that the code makes use of the `average[]` operator which is not present in the current v5.1.23 release of TiddlyWiki, but is available in the [prerelease](https://tiddlyiki.com/prerelease).
