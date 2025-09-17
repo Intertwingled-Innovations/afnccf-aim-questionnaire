@@ -1,4 +1,4 @@
-name: Build and Deploy TWPUB Website
+name: Build and Deploy afnccf-aim-questionnaire Website
 
 on:
   push:
